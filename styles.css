@@ -6,7 +6,7 @@ body {
     min-height: 100vh;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("img/math-83288.jpg");
+    background: linear-gradient(60deg, #7900FF, #93FFD8);
 }
 
 .clock {
